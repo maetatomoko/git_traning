@@ -6,3 +6,4 @@
 * second temporary message
 * will be merge
 >>>>>>> merge_traning
+* will be rebased
